@@ -1,0 +1,74 @@
+a {
+  color: #b55793!important;
+}
+
+body {
+  font-family: Arial;
+}
+
+.theme-dropdown .dropdown-menu {
+  position: static;
+  display: block;
+  margin-bottom: 20px;
+}
+
+.theme-showcase > p > .btn {
+  margin: 5px 0;
+}
+
+.theme-showcase .navbar .container {
+  width: auto;
+}
+
+.jumbotron {
+  background: -webkit-linear-gradient(left, #3f0c2b , #c56ca6)!important; /* For Safari 5.1 to 6.0 */
+  background: -o-linear-gradient(right, #3f0c2b, #c56ca6)!important; /* For Opera 11.1 to 12.0 */
+  background: -moz-linear-gradient(right, #3f0c2b, #c56ca6)!important; /* For Firefox 3.6 to 15 */
+  background: linear-gradient(to right, #3f0c2b , #c56ca6)!important; /* Standard syntax */
+  height: 100%!important;
+  color: #ffffff!important;
+  margin-bottom: 0px!important;
+  padding-left:150px!important;
+  padding-right:150px!important;
+  text-align: center!important;
+}
+
+.jumbotron .btn {
+  margin-bottom: 24px;
+}
+
+.jumbotron h1 {
+	margin-top: 0px!important;
+}
+
+.page-header {
+  margin: 0px!important;
+  padding-left: 150px!important;
+  padding-right: 150px!important;
+  padding-top:48px!important;
+  padding-bottom:48px!important;
+}
+
+.page-header h1 {
+	padding: 0px!important;
+	margin: 0px!important;
+}
+
+.page-header h4 {
+  padding-top: 24px!important;
+  padding-bottom: 24px!important;
+  margin-top: 0px!important;
+  margin-bottom: 0px!important;
+}
+
+.feature-list h4 {
+  padding-top: 48px!important;
+  padding-bottom: 48px!important;
+  margin-top: 0px!important;
+  margin-bottom: 0px!important;
+}
+
+.list-group {
+  margin-bottom: 0px!important;
+  font-size: 18px!important;
+}
